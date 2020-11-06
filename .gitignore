@@ -1,8 +1,9 @@
 # User-specific stuff
 .idea/*
 .idea
-### Python ###
-*/__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
 # Environments
 .env/
 env/
